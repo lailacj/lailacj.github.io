@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lailacj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
     twitter: lailacjohnston
-    #github: sarahawu
+    linkedin: lailacjohnston
     #instagram: swubear
     #last-fm: sarahwu_
 
