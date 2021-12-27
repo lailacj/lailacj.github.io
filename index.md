@@ -23,20 +23,19 @@ On my free time, I enjoy running, hiking, backpacking, cooking, and film photogr
 If you would like to reach out, you can contact me by email:
 
 {:.content-narrow .content-block}
-    [firstname]c[lastname] [at] gmail [dot] com  
+[firstname]c[lastname] [at] gmail [dot] com  
 
 {:.content-narrow .content-block}           
-    [firstname]cj [at] mit [dot] edu
+[firstname]cj [at] mit [dot] edu
 
 {:.content-narrow .content-block}
-    [firstname][lastname] [at] knights [dot] ucf [dot] edu
+[firstname][lastname] [at] knights [dot] ucf [dot] edu
 
 {:.content-narrow .content-block}
 or social media:
 
 {:.content-narrow .content-block}
 [twitter](https://twitter.com/lailacjohnston){:target="_blank"}
-
 {:.content-narrow .content-block}
 [linkedin](https://www.linkedin.com/in/lailacjohnston/){:target="_blank"}
 
