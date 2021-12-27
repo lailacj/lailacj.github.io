@@ -9,8 +9,10 @@ If you would like to reach out, you can contact me by email:
 
 {:.content-narrow .content-block}
 [firstname]c[lastname] [at] gmail [dot] com  
+
 {:.content-narrow .content-block}           
 [firstname]cj [at] mit [dot] edu
+
 {:.content-narrow .content-block}
 [firstname][lastname] [at] knights [dot] ucf [dot] edu
 
