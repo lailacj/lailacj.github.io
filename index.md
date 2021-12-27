@@ -16,28 +16,5 @@ I am interested in conducting research at the intersection of philosophy, cognit
 {:.content-narrow .content-block}
 On my free time, I enjoy running, hiking, backpacking, cooking, and film photography. I also spend too much money on vinyl, cds, cassettes, and books. 
 
-{:.content-narrow .content-block}
-
-
-{:.content-narrow .content-block}
-If you would like to reach out, you can contact me by email:
-
-{:.content-narrow .content-block}
-[firstname]c[lastname] [at] gmail [dot] com  
-
-{:.content-narrow .content-block}           
-[firstname]cj [at] mit [dot] edu
-
-{:.content-narrow .content-block}
-[firstname][lastname] [at] knights [dot] ucf [dot] edu
-
-{:.content-narrow .content-block}
-or social media:
-
-{:.content-narrow .content-block}
-[twitter](https://twitter.com/lailacjohnston){:target="_blank"}
-{:.content-narrow .content-block}
-[linkedin](https://www.linkedin.com/in/lailacjohnston/){:target="_blank"}
-
 <!-- {:.profile .content-mid} -->
 <!-- ![naples](/imgs/naples.png) -->
