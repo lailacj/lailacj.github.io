@@ -8,19 +8,19 @@ permalink: /contact/
 If you would like to reach out, you can contact me by email:
 
 {:.content-narrow .content-block}
-> [firstname]c[lastname] [at] gmail [dot] com    *(preferred)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname]c[lastname] [at] gmail [dot] com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(preferred)*
 
 {:.content-narrow .content-block}           
-> [firstname]cj [at] mit [dot] edu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname]cj [at] mit [dot] edu
 
 {:.content-narrow .content-block}
-> [firstname][lastname] [at] knights [dot] ucf [dot] edu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname][lastname] [at] knights [dot] ucf [dot] edu
 
 {:.content-narrow .content-block}
 or social media:
 
 {:.content-narrow .content-block}
-> [twitter](https://twitter.com/lailacjohnston){:target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[twitter](https://twitter.com/lailacjohnston){:target="_blank"}
 
 {:.content-narrow .content-block}
-> [linkedin](https://www.linkedin.com/in/lailacjohnston/){:target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linkedin](https://www.linkedin.com/in/lailacjohnston/){:target="_blank"}
