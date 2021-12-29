@@ -4,18 +4,14 @@ title: blog
 permalink: /blog/
 ---
 
-<!---  select chalk art for [Chalk of the Day](https://www.instagram.com/chalkoftheday/){:target="_blank"}, 2016-2020 --->
+{:.content-narrow .content-block}
+[hikes](https://lailacj.github.io/pages/hikes.md/){:target="_blank"}
 
-<!--- <div class="chalk content-mid">
+{:.content-narrow .content-block}
+art
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](https://lailacj.github.io/pages/palmleaves.md/){:target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[collge](https://lailacj.github.io/pages/collage.md/){:target="_blank"}
 
-  {%- for i in (1..8) -%}
-  <div> <a href="/imgs/chalk{{ i }}.jpg" class="lightbox_trigger"> <img src="/imgs/chalk{{ i }}.jpg"> </a> </div>
-  {%- endfor -%}
-
-</div>
-
-
-design and layout for [MIT Technique](https://technique.mit.edu/){:target="_blank"} 2020, vol. 136
-
-<a href="/imgs/tnq.png" class="lightbox_trigger"> <img src="/imgs/tnq.png"> </a>
----> 
+{:.content-narrow .content-block}
+writings
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[philosophy of love](https://lailacj.github.io/pages/love.md/){:target="_blank"}
