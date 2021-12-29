@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {:.profile .content-mid}
-![palmleaves](/imgs/lcj_palmleaves_2021.png =100x20)
+![palmleaves](/imgs/lcj_palmleaves_2021.jpg =100x20)
 
 <!-- <img src="/imgs/lcj_palmleaves_2021.jpg" width="10%" height="10%"/> -->
 
