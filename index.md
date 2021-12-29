@@ -14,7 +14,7 @@ I am interested in conducting research at the intersection of philosophy, cognit
 <!-- Outside of research,  -->
 
 {:.content-narrow .content-block}
-On my free time, I enjoy running, hiking, backpacking, cooking, and film photography. I also spend too much money on vinyl, cds, cassettes, and books. 
+On my free time, I enjoy running, hiking, backpacking, and film photography. I also enjoy spending too much money on vinyl, cds, cassettes, and books. 
 
 <!-- {:.profile .content-mid} -->
 <!-- ![naples](/imgs/naples.png) -->
