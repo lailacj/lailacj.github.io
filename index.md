@@ -4,8 +4,12 @@ title: about
 permalink: /
 ---
 
-{:.profile .content-mid}
-![palmleaves](/imgs/lcj_palmleaves_2021.png)
+<!-- {:.profile .content-mid}
+![palmleaves](/imgs/lcj_palmleaves_2021.png) -->
+
+<figure><center>
+  <img width="400" src="/iimgs/lcj_palmleaves_2021.png" data-action="zoom"/>
+</center></figure>
 
 {:.content-narrow .content-block}
 My name is Laila Johnston (she/her). I am an undergrad at the [University of Central Florida](https://www.ucf.edu/){:target="_blank"}, where I major in Mathematics and minor in Computer Science and Philosophy. Currently, I work in the [CoCoSci](http://cocosci.mit.edu/){:target="_blank"} group at [MIT](https://web.mit.edu/){:target="_blank"} with [Max Siegel](http://web.mit.edu/maxs/www/){:target="_blank"}, [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"}, and [Josh Tenenbaum](http://cocosci.mit.edu/josh){:target="_blank"}. Before that, I worked with [Daivd Danks](https://www.daviddanks.org/){:target="_blank"} researching individual differences in causal learning and building models of causal inference learning. 
