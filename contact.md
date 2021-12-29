@@ -8,7 +8,7 @@ permalink: /contact/
 If you would like to reach out, you can contact me by email:
 
 {:.content-narrow .content-block}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname]c[lastname] [at] gmail [dot] com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(preferred)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname]c[lastname] [at] gmail [dot] com &nbsp;&nbsp;&nbsp;*(preferred)*
 
 {:.content-narrow .content-block}           
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[firstname]cj [at] mit [dot] edu
