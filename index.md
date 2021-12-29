@@ -4,6 +4,10 @@ title: about
 permalink: /
 ---
 
+{:.content-narrow .content-block}
+visiting student in mit's brain and cog depatment
+mathematics undergrad at ucf
+
 <!-- {:.profile .content-mid}
 ![palmleaves](/imgs/lcj_palmleaves_2021.jpg =100x20) -->
 
