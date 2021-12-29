@@ -8,7 +8,7 @@ permalink: /
 ![palmleaves](/imgs/lcj_palmleaves_2021.png) -->
 
 <figure><center>
-  <img width="30%" height="30%" src="/imgs/lcj_palmleaves_2021.png" data-action="zoom"/>
+  <img width="30%" height="30%" src="/imgs/lcj_palmleaves_2021.jpg" data-action="zoom"/>
 </center></figure>
 
 {:.content-narrow .content-block}
