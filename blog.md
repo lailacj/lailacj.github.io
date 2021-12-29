@@ -5,6 +5,9 @@ permalink: /blog/
 ---
 
 {:.content-narrow .content-block}
+hello
+
+{:.content-narrow .content-block}
 [hikes](https://lailacj.github.io/pages/hikes.md/){:target="_blank"}
 
 {:.content-narrow .content-block}
