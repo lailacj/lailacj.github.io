@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {:.content-narrow .content-block}
-visiting student in mit's brain and cog department
+visiting student in mit's brain and cog sci department
 mathematics undergrad at ucf
 
 <!-- {:.profile .content-mid}
