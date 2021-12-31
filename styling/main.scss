@@ -5,7 +5,7 @@
  * defaults
  */
 $base-font-family:  "Lato", sans-serif !default;
-$base-font-size:    17px;
+$base-font-size:    20px;
 $base-font-weight:  300 !default;
 $large-font-size:   24px !default;
 $emph-font-weight:  500 !default;
@@ -213,6 +213,7 @@ a {
 }
 
 .centertxt {   text-align: center; }
+.bloglist { ul,li,ol { list-style-type: none; } }
 
 #lightbox {
   position: fixed; /*lightbox window fixed*/
