@@ -4,12 +4,12 @@ title: about
 permalink: /
 ---
 
-{:.content-narrow .content-block}
-mathematics undergrad at ucf<br>
-visiting student in mit's brain and cog sci department
-
 {:.profile .profile-size}
 ![palmleaves](/imgs/lcj_palmleaves_2021.jpg)
+
+{:.content-narrow .content-block .centertxt }
+mathematics undergrad at ucf<br>
+visiting student in mit's brain and cog sci department
 
 <!-- <img src="/imgs/lcj_palmleaves_2021.jpg" width="75" height="75"/> -->
 

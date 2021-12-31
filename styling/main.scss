@@ -5,7 +5,7 @@
  * defaults
  */
 $base-font-family:  "Lato", sans-serif !default;
-$base-font-size:    15px;
+$base-font-size:    17px;
 $base-font-weight:  300 !default;
 $large-font-size:   24px !default;
 $emph-font-weight:  500 !default;
@@ -211,6 +211,8 @@ a {
 //     mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1) 60%);
   }
 }
+
+.centertxt {   text-align: center; }
 
 #lightbox {
   position: fixed; /*lightbox window fixed*/
