@@ -5,11 +5,11 @@ permalink: /blog/
 ---
 
 {:.content-narrow .content-block}
-[hikes](https://lailacj.github.io/pages/hikes.md)
+[hikes](/blog/hikes/)
 
 {:.content-narrow .content-block}
 art<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/blog/palmleaves/){:target="_blank"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/blog/palmleaves/)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[collage](https://lailacj.github.io/pages/collage.md){:target="_blank"}
 
 {:.content-narrow .content-block}
