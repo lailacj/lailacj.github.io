@@ -20,10 +20,10 @@ in the spring of 2020, i took a philosophy of love class and read six books. for
 “I only have the assurance that I am loving, for as long as I am loving – that is to say that I assume the risk of loving first; I only have the initiative insofar as I can love, and can make a primary decision to love without return, and can make it so that love, through me, loves.”
 
 {:.content-narrow .content-block .bloglist}
-the six books i read:<br>
-- Irving Singer, *Philosophy of Love: A Partial Summing-Up*<br>
-- Plato, *Symposium*<br>
-- Baruch Spinoza, *The Ethics*<br>
-- Søren Kierkegaard, *Works of Love*<br>
-- Jean-Luc Marion, *The Erotic Phenomenon*<br>
-- Bell Hooks, *all about love*<br>
+the six books i read:
+- Irving Singer, *Philosophy of Love: A Partial Summing-Up*
+- Plato, *Symposium*
+- Baruch Spinoza, *The Ethics*
+- Søren Kierkegaard, *Works of Love*
+- Jean-Luc Marion, *The Erotic Phenomenon*
+- Bell Hooks, *all about love*
