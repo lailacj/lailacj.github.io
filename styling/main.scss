@@ -198,6 +198,13 @@ a {
   margin-left: auto;
 }
 
+.profile-size {
+  max-width: -webkit-calc(#{$content-width-mid} - (#{$unit-spacing} * 4));
+  max-width:         calc(#{$content-width-mid} - (#{$unit-spacing} * 4)); 
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .profile {
   img {
     -webkit-mask-image:-webkit-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1) 60%);

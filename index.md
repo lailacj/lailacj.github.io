@@ -8,8 +8,8 @@ permalink: /
 mathematics undergrad at ucf<br>
 visiting student in mit's brain and cog sci department
 
-<!-- {:.profile .content-mid}
-![palmleaves](/imgs/lcj_palmleaves_2021.jpg =100x20) -->
+{:.profile .profile-size}
+![palmleaves](/imgs/lcj_palmleaves_2021.jpg)
 
 <!-- <img src="/imgs/lcj_palmleaves_2021.jpg" width="75" height="75"/> -->
 
