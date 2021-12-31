@@ -18,6 +18,7 @@ permalink: /blog/love/
 
 <br>
 <br>
+
 {:.content-narrow .content-block}
 the six books i read:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Irving Singer, *Philosophy of Love: A Partial Summing-Up*<br>
