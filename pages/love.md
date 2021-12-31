@@ -16,6 +16,8 @@ permalink: /blog/love/
 {:.content-narrow .content-block}
 [Jean-Luc Marion, *The Erotic Phenomenon*](https://lailacj.github.io/pdfs/papers/johnston_reflection_eroticphenomenon.pdf)
 
+<br>
+<br>
 {:.content-narrow .content-block}
 the six books i read:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Irving Singer, *Philosophy of Love: A Partial Summing-Up*<br>
