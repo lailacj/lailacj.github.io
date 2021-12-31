@@ -5,10 +5,10 @@ permalink: /blog/hikes/
 ---
 
 {:.content-narrow .content-block}
-*living off of what i carry on my back and walking for miles*
+*living off of what i carry on my back and walking for miles - a list of my hiking & backpacking trips*
 
 {:.content-narrow .content-block}
-Chattahoochee National Forest, Florida, USA<br>
+Chattahoochee National Forest, Georgia, USA<br>
 Day hikes<br>
 August 2020
 
@@ -25,7 +25,7 @@ Outlanders Club at UCF
 
 {:.content-narrow .content-block}
 Salkantay Trek, Cusco, Peru<br> 
-Elevation: 4,650 meters (15,255 foot)<br>
+Elevation: 4,650 meters (15,255 feet)<br>
 June 2017 (5 days, 4 nights)<br>
 84 km (52 miles)
 
