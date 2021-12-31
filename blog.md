@@ -9,7 +9,7 @@ hikes
 
 {:.content-narrow .content-block}
 art<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](https://lailacj.github.io/pages/palmleaves.md){:target="_blank"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/pages/palmleaves.md){:target="_blank"}<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[collage](https://lailacj.github.io/pages/collage.md){:target="_blank"}
 
 {:.content-narrow .content-block}
