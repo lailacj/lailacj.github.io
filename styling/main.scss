@@ -213,7 +213,9 @@ a {
 }
 
 .centertxt {   text-align: center; }
-.bloglist { ul,li,ol { list-style-type: none; } }
+.bloglist { ul { list-style-type: none;list-style: none; }
+            li { list-style-type: none;list-style: none; }
+            ol { list-style-type: none; list-style: none;} }
 
 #lightbox {
   position: fixed; /*lightbox window fixed*/
