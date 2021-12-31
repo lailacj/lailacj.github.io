@@ -5,7 +5,7 @@ permalink: /blog/love/
 ---
 
 {:.content-narrow .content-block}
-*in the spring of 2020, i took a philosophy of love class and read six books. for three of these books, i picked a quote and responded to them.*
+*in the spring of 2020, i took a philosophy of love class and read six books. for three of these books, i picked a quote and responded to them. here are my reflections:*
 
 {:.content-narrow .content-block}
 [Irving Singer, *Philosophy of Love: A Partial Summing-Up*](https://lailacj.github.io/pdfs/papers/johnston_reflection_philolove.pdf)
