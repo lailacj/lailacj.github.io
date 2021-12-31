@@ -3,10 +3,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 # Site settings
-title: Laila C. Johnston
+title: laila c. johnston
 email: lailacjohnston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Laila C. Johnston
+    laila c. johnston
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lailacj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
