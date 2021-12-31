@@ -8,13 +8,19 @@ permalink: /blog/hikes/
 *living off of what i carry on my back and walking for miles*<br>
 *a list of my hiking & backpacking trips*
 
+<!-- {:.content-narrow .content-block}
+the hike i did on lab retreat, New Hampshire, USA<br>
+October 2021<br>
+Day hike, --- miles<br>
+CoCoSci Lab Retreat -->
+
 {:.content-narrow .content-block}
 Chattahoochee National Forest, Georgia, USA<br>
 Day hikes<br>
 August 2020
 
 {:.content-narrow .content-block}
-Ibiza, Spain and the Cotswolds, England<br>
+Ibiza, Spain & the Cotswolds, England<br>
 Day hikes<br>
 Summer 2019
 
