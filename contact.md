@@ -9,7 +9,7 @@ If you would like to reach out, you can contact me by email:
 
 {:.content-narrow .content-block .bloglist}
 - *(general email)*&nbsp;&nbsp;&nbsp;lailacjohnston [at] gmail [dot] com 
-- *(mit email)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lailacj [at] mit [dot] edu
+- *(mit email)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lailacj [at] mit [dot] edu
 - *(ucf email)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lailajohnston [at] knights [dot] ucf [dot] edu
 
 {:.content-narrow .content-block}
