@@ -8,11 +8,11 @@ permalink: /blog/hikes/
 *living off of what i carry on my back and walking for miles*<br>
 *a list of my hiking & backpacking trips*
 
-<!-- {:.content-narrow .content-block}
-the hike i did on lab retreat, New Hampshire, USA<br>
-October 2021<br>
-Day hike, --- miles<br>
-CoCoSci Lab Retreat -->
+{:.content-narrow .content-block}
+Irene's Path to the Scaur, White Mountain National Forest, New Hampshire, USA<br>
+October 16, 2021<br>
+Day hike, 4.2 miles<br>
+CoCoSci Lab Retreat
 
 {:.content-narrow .content-block}
 Chattahoochee National Forest, Georgia, USA<br>
