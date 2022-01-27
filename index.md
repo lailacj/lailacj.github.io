@@ -17,10 +17,8 @@ My name is Laila Johnston (she/her). I am an undergraduate at the [University of
 {:.content-narrow .content-block}
 Broadly, I am interested in conducting research at the intersection of philosophy, cognitive science, and computer science. More specifically, I am interested in compositional concepts, how the human mind forms new thoughts and concepts, and how this can be represented computationally. 
 
-<!-- I would like to try to discover uniform, formal principles that underlie human thought and intelligence. -->
-
 {:.content-narrow .content-block}
-I'm so grateful for the mentorship and guidence I have received from my research advisors and everyone at the [AAP Office](https://academicsuccess.ucf.edu/aap/){:target="_blank"} at UCF. Having a supportive environment inspires me to reinvest into my community through being the President of the Cognitive Sciences Club at UCF and Vice President of AI@UCF. As a leader in these clubs, a first generation college student, and a Hispanic woman, I strive to create a space where other young scientists, no matter their background, can feel encouraged and supported to fulfill their aspirations.
+I am motivated to obtain a PhD not only to further our understanding of the human mind, but also to encourage other first-generation, Hispanic female students to pursue careers in STEM. My experience as a [McNair Scholar](https://mcnair.ucf.edu/){:target="_blank"} and the mentorship I have received, has inspired me to reinvest into my community through being the President of the Cognitive Sciences Club and Vice President of AI@UCF. As a leader in these clubs, I strive to create a space where other young scientists, no matter their background, can feel encouraged and supported to fulfill their aspirations.
 
 {:.content-narrow .content-block}
 On my free time, I enjoy running, [hiking/backpacking](https://lailacj.github.io/blog/hikes/), and film photography. I also enjoy spending too much money on vinyl and books. 
