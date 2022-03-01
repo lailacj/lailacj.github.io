@@ -199,8 +199,8 @@ a {
 }
 
 .profile-size {
-  max-width: -webkit-calc(#{$content-width-mid} / 2.3);
-  max-width:         calc(#{$content-width-mid} / 2.3); 
+  max-width: -webkit-calc(#{$content-width-mid} / 2);
+  max-width:         calc(#{$content-width-mid} / 2); 
   margin-right: auto;
   margin-left: auto;
 }
