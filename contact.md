@@ -10,8 +10,10 @@ If you would like to reach out, you can contact me by email:
 {:.content-narrow .content-block .bloglist}
 - *(general email)*
     - lailacjohnston [at] gmail [dot] com 
+
 - *(mit email)*
     - lailacj [at] mit [dot] edu
+    
 - *(ucf email)*
     - lailajohnston [at] knights [dot] ucf [dot] edu
 
