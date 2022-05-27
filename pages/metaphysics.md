@@ -15,4 +15,4 @@ Papers<br>
 {:.content-narrow .content-block}
 Reading Reactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Conceptualism](https://lailacj.github.io/pdfs/papers/johnston_conceptualism.pdf)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Chalmers and Materialism](https://lailacj.github.io/pdfs/papers/materialism.pdf)    
+&nbsp;&nbsp;&nbsp;&nbsp;[Chalmers and Materialism](https://lailacj.github.io/pdfs/papers/johnston_materialism.pdf)    
