@@ -17,5 +17,5 @@ art<br>
 
 {:.content-narrow .content-block .bloglist}
 writings<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[philosophy of love](/blog/love/)
+&nbsp;&nbsp;&nbsp;&nbsp;[philosophy of love](/blog/love/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[metaphysics](/blog/metaphysics/)
