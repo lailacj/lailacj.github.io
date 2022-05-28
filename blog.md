@@ -16,6 +16,6 @@ art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[collage](/blog/collage/)
 
 {:.content-narrow .content-block .bloglist}
-writings<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[philosophy of love](/blog/love/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[metaphysics](/blog/metaphysics/)
+philosophical writings<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[metaphysics](/blog/metaphysics/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[philosophy of love](/blog/love/)
