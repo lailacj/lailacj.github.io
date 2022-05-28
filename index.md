@@ -8,9 +8,9 @@ permalink: /
 ![laila](/imgs/laila_2021.jpg)
 
 {:.content-narrow .content-block .centertxt}
-mathematics undergrad at ucf<br>
-summer researcher in the cocosci lab at mit<br>
-appyling to phd programs in computational cognitive science
+**mathematics undergrad at ucf**<br>
+**summer researcher in the cocosci lab at mit**<br>
+**appyling to phd programs in computational cognitive science**
 
 {:.content-narrow .content-block}
 My name is Laila Johnston (she/her). I am an undergraduate at the [University of Central Florida](https://www.ucf.edu/){:target="_blank"} (UCF), where I major in Mathematics and minor in Computer Science and Philosophy. Since August 2021, I have been working in the [CoCoSci Group](https://cocosci.mit.edu/){:target="_blank"} at [MIT](https://web.mit.edu/){:target="_blank"}  with [Max Siegel](http://web.mit.edu/maxs/www/){:target="_blank"}, [Tobi Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"}, and [Josh Tenenbaum](https://cocosci.mit.edu/josh){:target="_blank"} researching how to create probabilistic programs that can reason with compositional concepts. Before that, I worked with [David Danks](https://www.daviddanks.org/){:target="_blank"} researching individual differences in causal learning and building models of causal inference learning ([see our cogsci paper!](https://lailacj.github.io/pdfs/papers/johnston_causallearning_2021.pdf){:target="_blank"}). 

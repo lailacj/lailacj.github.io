@@ -5,8 +5,8 @@ permalink: /blog/hikes/
 ---
 
 {:.content-narrow .content-block}
-*living off of what i carry on my back and walking for miles*<br>
-*a list of my hiking & backpacking trips*
+***living off of what i carry on my back and walking for miles***<br>
+***a list of my hiking & backpacking trips***
 
 {:.content-narrow .content-block}
 Irene's Path to the Scaur, White Mountain National Forest, New Hampshire, USA<br>
