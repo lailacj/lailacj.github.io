@@ -23,11 +23,11 @@ $brand-color-dark:  #006800 !default;
 $brand-color-light: #cef5ca;
 $grey-color:        #c2c2c2 !default;
 
-$content-width:     800px !default;
-$content-width-narrow:  700px !default;
+$content-width:     1000px !default;
+$content-width-narrow:  800px !default;
 $content-width-mid: ($content-width + $content-width-narrow) / 2 !default;
 $on-palm:           400px !default;
-$on-laptop:         800px !default;
+$on-laptop:         1000px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
