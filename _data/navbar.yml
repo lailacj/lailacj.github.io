@@ -1,7 +1,5 @@
 - name: about
   link: /
-- name: cv
-  link: /cv/
 - name: blog
   link: /blog/
 - name: contact 
