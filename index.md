@@ -9,7 +9,7 @@ permalink: /
 
 {:.content-narrow .content-block .centertxt}
 **mathematics undergrad at ucf**<br>
-**summer researcher in the cocosci lab at mit**<br>
+**researcher in the cocosci lab at mit**<br>
 **appyling to phd programs in computational cognitive science**
 
 {:.content-narrow .content-block}
