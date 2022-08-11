@@ -5,7 +5,7 @@ permalink: /blog/metaphysics/
 ---
 
 {:.content-narrow .content-block}
-*in the spring of 2022, i took a metaphysics class. below are my writings:*
+***in the spring of 2022, i took a metaphysics class. below are my writings:***
 
 {:.content-narrow .content-block}
 Papers<br>

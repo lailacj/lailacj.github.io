@@ -10,10 +10,10 @@ permalink: /contact/
 {:.content-narrow .content-block .bloglist}
 - *(general email)*
 - lailacjohnston [at] gmail [dot] com <br><br>
-- *(mit email)*
-- lailacj [at] mit [dot] edu <br><br>
 - *(ucf email)*
-- lailajohnston [at] knights [dot] ucf [dot] edu
+- lailajohnston [at] knights [dot] ucf [dot] edu <br><br>
+- *(mit email)*
+- lailacj [at] mit [dot] edu
 
 {:.content-narrow .content-block}
 **or social media:**
