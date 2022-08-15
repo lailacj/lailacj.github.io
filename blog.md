@@ -12,6 +12,7 @@ permalink: /blog/
 
 {:.content-narrow .content-block}
 art<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[a tiny plant pot](/blog/plantpot/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/blog/palmleaves/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[collage](/blog/collage/)
 
