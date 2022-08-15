@@ -14,8 +14,8 @@ permalink: /blog/
 art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[a tiny plant pot](/blog/plantpot/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/blog/palmleaves/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[collage](/blog/collage/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[the face](/blog/face/)
+&nbsp;&nbsp;&nbsp;&nbsp;[the face](/blog/face/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[collage](/blog/collage/)
 
 {:.content-narrow .content-block .bloglist}
 philosophical writings<br>
