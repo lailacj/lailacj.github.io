@@ -82,10 +82,6 @@ img {
   width: 100%;
 }
 
-imgsmall {
-  width: 70%;
-}
-
 
 
 /**
@@ -220,8 +216,8 @@ a {
 }
 
 .profile-small {
-  imgsmall {
-    // 
+  img {
+    width: 70%;
   }
 }
 
