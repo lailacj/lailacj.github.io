@@ -15,6 +15,7 @@ art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[a tiny plant pot](/blog/plantpot/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[palm leaves](/blog/palmleaves/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[collage](/blog/collage/)
+&nbsp;&nbsp;&nbsp;&nbsp;[the face](/blog/face/)
 
 {:.content-narrow .content-block .bloglist}
 philosophical writings<br>
