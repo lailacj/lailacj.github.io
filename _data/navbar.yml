@@ -1,5 +1,7 @@
 - name: about
   link: /
+- name: cv
+  link: https://lailacj.github.io/pdfs/lcj_cv.pdf
 - name: blog
   link: /blog/
 - name: contact 
