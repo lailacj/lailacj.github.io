@@ -8,12 +8,15 @@ permalink: /
 ![laila](/imgs/laila_2021.jpg)
 
 {:.content-narrow .content-block .centertxt}
-**mathematics undergrad at ucf**<br>
-**researcher in cocosci at mit**<br>
+**math undergrad at ucf, incoming cogsci phd student at brown**<br>
+**cocosci researcher at mit**<br>
 **2023 nsf graduate research fellow**
 
 {:.content-narrow .content-block}
-My name is Laila Johnston (she/her). I am an undergraduate at the [University of Central Florida](https://www.ucf.edu/){:target="_blank"} (UCF), where I major in Mathematics and minor in Computer Science and Philosophy. Recently, I was awarded the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/){:target="_blank"}. Since August 2021, I have been working in the [CoCoSci Group](https://cocosci.mit.edu/){:target="_blank"} at [MIT](https://web.mit.edu/){:target="_blank"}  with [Max Siegel](http://web.mit.edu/maxs/www/){:target="_blank"}, [Josh Tenenbaum](https://cocosci.mit.edu/josh){:target="_blank"}, and [Tobi Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"} researching how to create probabilistic programs that can reason with compositional concepts. Before that, I worked with [David Danks](https://www.daviddanks.org/){:target="_blank"} researching individual differences in causal learning and building models of causal inference learning ([see our cogsci paper!](https://lailacj.github.io/pdfs/papers/johnston_causallearning_2021.pdf){:target="_blank"}).
+My name is Laila Johnston (she/her). I am an undergraduate at the [University of Central Florida](https://www.ucf.edu/){:target="_blank"} (UCF), where I major in Mathematics and minor in Computer Science and Philosophy. Recently, I was awarded the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/){:target="_blank"}. And soon, I will be joining [Brown University](https://www.brown.edu/){:target="_blank"} as a [Cognitive Science PhD](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home){:target="_blank"} Student. 
+
+{:.content-narrow .content-block}
+Since August 2021, I have been working in the [CoCoSci Group](https://cocosci.mit.edu/){:target="_blank"} at [MIT](https://web.mit.edu/){:target="_blank"}  with [Max Siegel](http://web.mit.edu/maxs/www/){:target="_blank"}, [Josh Tenenbaum](https://cocosci.mit.edu/josh){:target="_blank"}, and [Tobi Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"} researching how to create probabilistic programs that can reason with compositional concepts. Before that, I worked with [David Danks](https://www.daviddanks.org/){:target="_blank"} researching individual differences in causal learning and building models of causal inference learning ([see our cogsci paper!](https://lailacj.github.io/pdfs/papers/johnston_causallearning_2021.pdf){:target="_blank"}).
 
 {:.content-narrow .content-block}
 I am interested in conducting research at the intersection of cognitive science, computer science, mathematics, and philosophy. Recently, I have been very interested in the computational mechanisms of human question asking. How can we create computational models that form questions as flexibly and easily as humans do? And can questions provide insights into how humans change their world models? Ultimately, I would like to discover the formal computational principles that underpin how the human mind forms new thoughts and concepts. 
