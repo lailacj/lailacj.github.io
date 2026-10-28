@@ -7,8 +7,8 @@ permalink: /blog/
 {:.content-narrow .content-block}
 ***less of a blog, more of a things-i-want-to-share :)***
 
-{:.content-narrow .content-block}
-[hikes](/blog/hikes/)
+<!-- {:.content-narrow .content-block}
+[hikes](/blog/hikes/) -->
 
 {:.content-narrow .content-block}
 art<br>
